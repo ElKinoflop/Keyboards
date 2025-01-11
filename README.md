@@ -22,3 +22,5 @@ Stacked acrylic handwired keyboard. 12.75u row stagger 40% main cluster with add
 <a href="https://github.com/ElKinoflop/Vozvan" target="_blank">https://github.com/ElKinoflop/Vozvan</a>
 
 Stacked acrylic handwired keyboard. Monosplit 12.75u row stagger 40% keyboard with exposed components in the centre.
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
