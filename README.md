@@ -9,6 +9,12 @@ Stacked acrylic handwired keyboard with PCB option. 13u row stagger 40% main clu
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081939565~2.jpg" alt="Barghest Keyboard Photo">
 
+# Blatherskite - Work in Progress
+
+Stacked acrylic handwired keyboard. 12.75u row stagger 40% with LED matrix.
+
+<img src="https://github.com/ElKinoflop/Keyboards/blob/main/Blatherskite%20Render%20(1).png" alt="Blatherskite Keyboard Render">
+
 # Izitafauxty
 
 <a href="https://github.com/ElKinoflop/Izitafauxty" target="_blank">https://github.com/ElKinoflop/Izitafauxty</a>
