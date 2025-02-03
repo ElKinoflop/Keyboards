@@ -9,7 +9,9 @@ Stacked acrylic handwired keyboard with PCB option. 13u row stagger 40% main clu
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/PXL_20241018_081939565~2.jpg" alt="Barghest Keyboard Photo">
 
-# Blatherskite - Work in Progress
+# Blatherskite - Untested
+
+<a href="https://github.com/ElKinoflop/Blatherskite" target="_blank">https://github.com/ElKinoflop/Blatherskite</a>
 
 Stacked acrylic handwired keyboard. 12.75u row stagger 40% with LED matrix.
 
