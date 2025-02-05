@@ -15,7 +15,7 @@ Stacked acrylic handwired keyboard with PCB option. 13u row stagger 40% main clu
 
 Stacked acrylic handwired keyboard. 12.75u row stagger 40% with LED matrix.
 
-<img src="https://github.com/ElKinoflop/Keyboards/blob/main/Blatherskite%20Render%20(1).png" alt="Blatherskite Keyboard Render">
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(1).png" alt="Blatherskite Keyboard Render">
 
 # Izitafauxty
 
@@ -24,6 +24,14 @@ Stacked acrylic handwired keyboard. 12.75u row stagger 40% with LED matrix.
 Stacked acrylic handwired keyboard. 12.75u row stagger 40% main cluster with added numpad (standard or southpaw) and F-Row.
 
 <img src="https://github.com/ElKinoflop/Izitafauxty/blob/main/images/PXL_20241116_132735092~2.jpg" alt="Izitafauxty Keyboard Photo">
+
+# TKLed - Untested
+
+<a href="https://github.com/ElKinoflop/TKLed" target="_blank">https://github.com/ElKinoflop/TKLed</a>
+
+Stacked acrylic handwired keyboard. 12.5u + arrows row stagger 40% with LED matrix.
+
+<img src="https://github.com/ElKinoflop/TKLed/blob/main/images/TKLed_v2_2025-Feb-05_11-35-57PM-000_CustomizedView7111979642.png" alt="TKLed Keyboard Render">
 
 # Vozvan
 
