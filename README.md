@@ -15,7 +15,7 @@ Stacked acrylic handwired keyboard with PCB option. 13u row stagger 40% main clu
 
 Stacked acrylic handwired keyboard. 12.75u row stagger 40% with LED matrix.
 
-<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(1).png" alt="Blatherskite Keyboard Render">
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250218_082327506.MP~2.jpg" alt="Blatherskite Keyboard Photo">
 
 # Izitafauxty
 
