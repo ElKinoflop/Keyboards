@@ -39,4 +39,4 @@ Stacked acrylic handwired keyboard. 12.5u + arrows row stagger 40% with LED matr
 
 Stacked acrylic handwired keyboard. Monosplit 12.75u row stagger 40% keyboard with exposed components in the centre.
 
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250128_121607740.MP~2.jpg" alt="Vozvan Keyboard Photo">
