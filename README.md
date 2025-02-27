@@ -1,5 +1,6 @@
 # Keyboards
 Overview of keyboard designs
+<img src="https://github.com/ElKinoflop/Keyboards/blob/main/PXL_20250227_111328947.jpg" alt="Keyboard Group Photo">
 
 # Barghest
 
