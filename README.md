@@ -30,7 +30,7 @@ Stacked acrylic handwired keyboard. 12.75u row stagger 40% main cluster with add
 
 <a href="https://github.com/ElKinoflop/TKLed" target="_blank">https://github.com/ElKinoflop/TKLed</a>
 
-Stacked acrylic handwired keyboard. 12.5u + arrows row stagger 40% with LED matrix.
+Stacked acrylic handwired keyboard. 12.75u + arrows row stagger 40% with LED matrix.
 
 <img src="https://github.com/ElKinoflop/TKLed/blob/main/images/TKLed_v2_2025-Feb-05_11-35-57PM-000_CustomizedView7111979642.png" alt="TKLed Keyboard Render">
 
