@@ -26,6 +26,14 @@ Stacked acrylic handwired keyboard. 12.75u row stagger 40% main cluster with add
 
 <img src="https://github.com/ElKinoflop/Izitafauxty/blob/main/images/PXL_20241116_132735092~2.jpg" alt="Izitafauxty Keyboard Photo">
 
+# Livewire
+
+<a href="https://github.com/ElKinoflop/Livewire" target="_blank">https://github.com/ElKinoflop/Livewire</a>
+
+12.75u 40% Keyboard with exposed through hole diodes & wiring. PCB and stacked acrylic case
+
+<img src="https://github.com/ElKinoflop/Livewire/blob/main/images/Case%20Render%202.png" alt="Livewire Keyboard Render">
+
 # TKLed - Untested
 
 <a href="https://github.com/ElKinoflop/TKLed" target="_blank">https://github.com/ElKinoflop/TKLed</a>
