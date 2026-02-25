@@ -32,7 +32,7 @@ Stacked acrylic handwired keyboard. 12.75u row stagger 40% main cluster with add
 
 12.75u 40% Keyboard with exposed through hole diodes & wiring. PCB and stacked acrylic case
 
-<img src="https://github.com/ElKinoflop/Livewire/blob/main/images/Case%20Render%202.png" alt="Livewire Keyboard Render">
+<img src="https://github.com/ElKinoflop/Livewire/blob/main/images/Livewire%20Top.png" alt="Livewire Keyboard Top">
 
 # TKLed - Untested
 
